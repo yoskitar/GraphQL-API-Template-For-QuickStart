@@ -4,7 +4,7 @@ FROM node:alpine
 #Indicamos a modo informativo, el responsable encargado de 
 #mantener el repositorio, con la etiqueta LABEL, ya que 
 #MAINTAINER se encuentra [deprecated]
-LABEL maintainer="oscarsmartfenix@gmail.com"
+LABEL maintainer="osc9718@gmail.com"
 #Establecemos el directorio de trabajo.
 WORKDIR /usr/src
 #Copiamos el package.json junto al package-lock.json donde 
